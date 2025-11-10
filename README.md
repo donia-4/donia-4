@@ -5,7 +5,7 @@
 # 👋 Hi, I'm **Donia Shaban**
 ### 💻 .NET Backend Developer | Building Scalable APIs & Smart Web Apps  
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=150&section=header&text=Donia%20Shaban%20|%20.NET%20Backend%20Developer&fontColor=ffffff&fontSize=30&animation=fadeIn" alt="Donia Shaban professional banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Donia%20Shaban%20|%20Backend%20Engineer&fontAlign=50&fontAlignY=40&color=0:f75c7e,100:9c27b0&fontColor=fff&animation=twinkling" alt="Donia Shaban vibrant header" />
 
 
 </div>
