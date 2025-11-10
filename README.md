@@ -7,6 +7,7 @@
 
 <img src="https://github.com/DenverCoder1/readme-typing-svg/blob/master/images/typing.gif" width="100%" alt="Header animation" />
 
+
 </div>
 
 ---
