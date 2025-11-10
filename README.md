@@ -5,8 +5,7 @@
 # 👋 Hi, I'm **Donia Shaban**
 ### 💻 .NET Backend Developer | Building Scalable APIs & Smart Web Apps  
 
-<img src="https://github.com/DenverCoder1/readme-typing-svg/blob/master/images/typing.gif" width="100%" alt="Header animation" />
-
+<img src="https://i.imgur.com/ybLwR2A.png" width="100%" alt=".NET Backend Developer banner" />
 
 </div>
 
