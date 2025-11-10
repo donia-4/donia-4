@@ -5,7 +5,7 @@
 # 👋 Hi, I'm **Donia Shaban**
 ### 💻 .NET Backend Developer | Building Scalable APIs & Smart Web Apps  
 
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="Welcome banner" />
+<img src="https://github.com/DenverCoder1/readme-typing-svg/blob/master/images/typing.gif" width="100%" alt="Header animation" />
 
 </div>
 
