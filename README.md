@@ -5,7 +5,7 @@
 # 👋 Hi, I'm **Donia Shaban**
 ### 💻 .NET Backend Developer | Building Scalable APIs & Smart Web Apps  
 
-<img src="https://i.imgur.com/ybLwR2A.png" width="100%" alt=".NET Backend Developer banner" />
+<img src="https://i.imgur.com/x4pH4yE.gif" width="100%" alt="Matrix code header" />
 
 </div>
 
