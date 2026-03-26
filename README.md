@@ -15,7 +15,7 @@
 🎓 Third-year **Computer Science Student** at *Zagazig University* (GPA: 3.9/4.0)  
 💡 Passionate about **.NET Core**, **Entity Framework**, **API Design**, and **Clean Architecture**  
 👩‍💻 Currently **.NET Track Lead** at *Zag Eng Community* — mentoring and leading backend sessions  
-🧠 Always exploring **microservices**, **cloud integration**, and **high-performance API patterns**
+🧠 Currently exploring **microservices**, **cloud integration**, and **high-performance API patterns**
 
 ---
 
