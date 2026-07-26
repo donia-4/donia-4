@@ -18,11 +18,11 @@ Computer Science student and backend-focused **.NET Developer**. I build scalabl
 <div align="center">
 
 ### ⚙️ Tech Stack
-<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,js,html,css,postman,git,github,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,py,dotnet,angular,postgres,docker,fastapi,rabbitmq,git,github,postman,vscode,visualstudio,html,css" />
 
 </div>
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=donia-4&show_icons=true&hide_border=true&theme=radical&bg_color=00000000" />
